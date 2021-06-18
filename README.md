@@ -1,4 +1,4 @@
-# soal-shift-sisop-modul-2-B03-2021
+# fp-sisop-B03-2021
 
 ### Anggota Kelompok
 1. Nur Putra Khanafi     05111940000020
